@@ -1,0 +1,1 @@
+export { SomeService } from './src/app/some-service.service';
